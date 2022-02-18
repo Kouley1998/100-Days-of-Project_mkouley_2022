@@ -1,0 +1,36 @@
+body{
+    background-image: linear-gradient(rgb(202, 202, 226), rgba(182, 80, 80, 0.212), Yellow);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.HeadUp{
+    border: 2px solid rgba(173, 236, 0, 0.89);
+    width: 60%;
+    display: flex;
+    justify-content: center;
+    margin: 14px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    padding: 10%;
+    border-radius: 5%;
+    flex-direction: column;
+    background-color: royalblue;
+    opacity: 7;
+    text-shadow: 1px 0.2px;
+    box-shadow: 10px 18px 15px 1px rgb(224, 71, 224) inset, 0 8px 10px 0 rgb(0, 0,20);
+
+}
+
+.Daily_Resume{
+    display: flex;
+    justify-content: space-between;
+    flex: 2;
+    margin: 2px;
+    padding: 12px;
+
+}
+
+.Daily{
+    display: flex;
+}
