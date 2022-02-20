@@ -1,0 +1,51 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align:center;
+    font-size: 21px;
+    font-weight: 300;
+    margin:0;
+}
+
+.HeadUp{
+    border: 2px solid rgba(173, 236, 0, 0.89);
+    justify-content: center;
+    margin: 1px;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    padding: 100px o;
+    border-radius: 5%;
+    flex-direction: column;
+    background-color: royalblue;
+    opacity: 7;
+    text-shadow: 1px 0.2px;
+    box-shadow: 10px 18px 15px 1px rgb(224, 71, 224) inset, 0 8px 10px 0 rgb(0, 0,20);
+}
+.container{
+    width: 570px;
+    margin: 0 auto;
+}
+
+p .Bold-Text{
+
+    font-size: 20px;
+    font-weight: 900;
+    color: tomato;
+}
+
+.S1{
+    background-color: rgb(230, 230, 230);
+    padding: 100px 0 ;
+}
+
+.S2{
+    background-color: royalblue;
+    padding:100px 0 ;
+}
+.container .middle{
+    background-color: seashell;
+    width: 100%;
+   padding: 10%;
+}
+
